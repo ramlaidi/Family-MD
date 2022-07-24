@@ -28,8 +28,8 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://api.xteam.xyz': 'apikeylu',
-  'https://melcanz.com': 'apikeylu',
-  'https://api.lolhuman.xyz': 'apikeylu',
+  'https://melcanz.com': 'irsantod',
+  'https://api.lolhuman.xyz': 'Sad-Bot',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apikeylu',
   'https://pencarikode.xyz': 'apikeylu',
@@ -43,22 +43,22 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.urlnya = "https://www.instagram.com/pripayer"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62 896-9118-3687'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
 global.salah = '_*Salah❌*_'
-global.dikit = "dikit lagi, semangat ya :')"
+global.dikit = "dikit lagi, semangat ya Deck"
 
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = data.namabot;
-global.author = data.owner;
+global.packname = \n\n\ndata.namabot;
+global.author = \n\n\ndata.owner;
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
